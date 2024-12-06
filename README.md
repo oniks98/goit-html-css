@@ -1,1 +1,1 @@
-# goit-html-css
+# goit-html-css-practice
